@@ -89,7 +89,7 @@ So, now you have everything set up for creating a tweak, let’s get into it. We
 
 - Then the next option which says Springboard, just press enter. And that’s it, your template has been created. Locate your name in finder and within the list of folders, there should be your tweak, titled hidedock14. Drag it to your desktop so it is easier to work with. 
 
-- Last step for this section is to create a Tweak.h file using terminal and the ```touch``` command like we talked about earlier. To do this, cd into your tweak by opening a fresh terminal window and typing ```cd <drag your tweak file here>```, ovbiously without the '<>'. After that, type ```touch Tweak.h```, now you're done. This file does not come with the theos tweak template, but it is a nice add-on to make your tweak clearer.
+- Last step for this section is to create a Tweak.h file using terminal and the ```touch``` command like we talked about earlier. To do this, cd into your tweak by opening a fresh terminal window and typing ```cd <drag your tweak file here>```, obviously without the '<>'. After that, type ```touch Tweak.h```, now you're done. This file does not come with the theos tweak template, but it is a nice add-on to make your tweak clearer.
 
 
 
